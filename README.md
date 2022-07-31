@@ -36,3 +36,7 @@ There are 4 pairs that meet all the requirements:
 - nums[2] == nums[3], and 2 * 3 == 6, which is divisible by 2.
 - nums[2] == nums[4], and 2 * 4 == 8, which is divisible by 2.
 - nums[3] == nums[4], and 3 * 4 == 12, which is divisible by 2.
+
+***Climbing Stairs***
+You are climbing a staircase. It takes n steps to reach the top.
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
